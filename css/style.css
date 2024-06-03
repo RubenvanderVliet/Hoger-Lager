@@ -1,61 +1,62 @@
-
-.dices{
+.dices {
     padding: 10px;
     column-count: 5;
     column-fill: balance;
 }
 
-.headings{
+.headings {
     padding: 10px;
     column-count: 5;
     column-fill: balance;
 }
 
-.credits{
+.credits {
     column-count: 5;
     column-fill: balance;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
-.dices-computer-player{
+.dices-computer-player {
     column-count: 2;
 }
 
-.dices-player{
+.dices-player {
     column-count: 2;
 }
 
-.message{
+.message {
     column-count: 3;
     column-fill: balance;
 }
 
-.message-box{
+.message-box {
     border: 1px solid white;
 }
 
-.controls{
+.controls {
     padding: 10px;
     column-count: 6;
     column-fill: balance;
 }
 
-.dice{
+.dice {
     font-size: 64pt;
 }
 
-button{
+button {
     width: 100%;
     color: black;
 }
-body{
-    background-image: url(/img/really_cool_landscape_wallpaper_4k_hd.jpg);
+
+body {
+    background-image: url('/img/really_cool_landscape_wallpaper_4k_hd.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
-*{
+
+* {
     color: white;
 }
