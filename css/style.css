@@ -52,7 +52,7 @@ button {
 }
 
 body {
-    background-image: url('/img/really_cool_landscape_wallpaper_4k_hd.jpg');
+    background-image: url('../img/really_cool_landscape_wallpaper_4k_hd.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
